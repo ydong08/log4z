@@ -1,3 +1,5 @@
+
+Welcome to the log4z wiki! 
 Welcome to the log4z wiki!  
 ## Introduction:  
 [![Build Status](https://travis-ci.org/zsummer/log4z.svg?branch=master)](https://travis-ci.org/zsummer/log4z)
